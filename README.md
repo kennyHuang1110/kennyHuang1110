@@ -41,7 +41,7 @@
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=F05032)
-![Hugging Face]((https://imgur.com/a0i4sME)))
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9A00?style=flat&logo=hugging%20face&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FF9A00?style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
