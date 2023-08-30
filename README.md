@@ -35,6 +35,10 @@
 ![prometheus](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
+![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/-Grafana-222222?style=flat&logo=grafana&logoColor=F46800)
+
 
 ##### Some of my favorite open source projects
 
