@@ -45,7 +45,9 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyHuang1110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- wi*quL3fcV -->
 
 
