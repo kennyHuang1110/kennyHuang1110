@@ -64,7 +64,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-##### implementation project presentation
+#### implementation project presentation
 <img src="Taiwan-ElectionWave-Analytics.png" alt="Alt Text" width="150">[![ PowerPoint](https://img.shields.io/badge/政勢解碼Link-blue?style=flat)](https://drive.google.com/file/d/14Tbqjhrxd7N7MVXEZLhKOANDKGZroP2T/view)          <img src="robo.png" alt="Alt Text" width="150">[![PowerPoint](https://img.shields.io/badge/open_AI%20Link-blue?style=flat)](https://docs.google.com/presentation/d/1kj1wZs1FU9IqRsxBLa1yPux66HE32UYL/edit#slide=id.p1)
 
 
