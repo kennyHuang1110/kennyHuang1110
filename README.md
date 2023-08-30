@@ -2,11 +2,14 @@
 
 ##### Hi, I'm kenny:
 
-🎓 I recently graduated from National Chengchi University with a degree in Finance and Banking.
-🧪 However, my interests have shifted towards the information technology industry.
-🪐 I'm enthusiastically pursuing the learning of new technologies.
-💬 I'm highly interested in ESG, development and operations, as well as cybersecurity.
-📫 Feel free to reach out to me through the provided links!
+
+
+- 🎓 I recently graduated from National Chengchi University with a degree in Finance and Banking.
+- :test_tube: However, my interests have shifted towards the information technology industry.
+- 🪐 I'm enthusiastically pursuing the learning of new technologies.
+- :speech_balloon: I'm highly interested in ESG, development and operations, as well as cybersecurity.
+- :mailbox: Feel free to reach out to me through the provided link
+
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ko29469501@gmail.com)
 
