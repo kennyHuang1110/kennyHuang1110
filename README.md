@@ -61,6 +61,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
+
+[![View PowerPoint](https://img.shields.io/badge/View%20PPT-PDF%20Link-blue?style=flat)](https://drive.google.com/file/d/14Tbqjhrxd7N7MVXEZLhKOANDKGZroP2T/view)
+
 [![Taiwan-ElectionWave-Analytics](https://img.shields.io/badge/Custom%20Image-Click%20to%20View-orange?style=flat)](Taiwan-ElectionWave-Analytics.png)
 
 <!-- wi*quL3fcV -->
