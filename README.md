@@ -28,6 +28,9 @@
 ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-0089D6?style=flat&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+
 
 ##### Familiar and experienced in implementation
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
@@ -44,7 +47,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
 
@@ -58,6 +61,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 <!-- wi*quL3fcV -->
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyHuang1110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
