@@ -58,7 +58,7 @@
 
 #### Only read, no practical experience
 ![FortiGate](https://img.shields.io/badge/-FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
-![XSS White Hat Hacker](https://img.shields.io/badge/-XSS%20White%20Hat%20Hacker-F64A8A?style=flat&logo=security&logoColor=white)
+[![XSS White Hat Hacker](https://img.shields.io/badge/-XSS%20White%20Hat%20Hacker-F64A8A?style=flat&logo=security&logoColor=white)](https://img.shields.io/badge/-XSS%20White%20Hat%20Hacker-F64A8A?style=flat&logo=security&logoColor=black)
 ![The Hive Project](https://img.shields.io/badge/-The%20Hive%20Project-8E44AD?style=flat)
 ![Grafana-k6](https://img.shields.io/badge/-Grafana--k6-F46800?style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
