@@ -4,7 +4,7 @@
 
 
 
-- 🎓 I recently graduated from chinese culture University with a degree in Finance and Banking.
+- 🎓 I  graduated from chinese culture University with a degree in Finance and Banking.
 
 - :test_tube: However, my interests have shifted towards the information technology industry.
 
