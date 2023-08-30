@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- "vue-dark": {
-    title_color: "41b883",
-    icon_color: "41b883",
-    text_color: "fffefe",
-    bg_color: "273849",
-  }
+
