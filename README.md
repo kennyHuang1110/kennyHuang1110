@@ -18,7 +18,7 @@
 - :mailbox: Feel free to reach out to me through the provided link
 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ko29469501@gmail.com)[![Gmail](https://img.shields.io/badge/-XSS%20White%20Hat%20Hacker-black?style=flat&logo=security&logoColor=white)](mailto:ko29469501@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ko29469501@gmail.com-black?style=flat&logo=security&logoColor=white)](mailto:ko29469501@gmail.com)
 
 
 
