@@ -35,6 +35,7 @@
 ##### Familiar and experienced in implementation
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat&logo=prometheus&logoColor=E6522C)
+![Loki](https://img.shields.io/badge/-Loki-FF9A00?style=flat&logo=grafana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-222222?style=flat&logo=grafana&logoColor=F46800)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-FF6522?style=flat&logo=hadoop&logoColor=white)
