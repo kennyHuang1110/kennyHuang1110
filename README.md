@@ -62,10 +62,12 @@
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 
-[![View PowerPoint](https://img.shields.io/badge/View%20PPT-PDF%20Link-blue?style=flat)](https://drive.google.com/file/d/14Tbqjhrxd7N7MVXEZLhKOANDKGZroP2T/view)
+[![ PowerPoint](https://img.shields.io/badge/View%20PPT-PDF%20Link-blue?style=flat)](https://drive.google.com/file/d/14Tbqjhrxd7N7MVXEZLhKOANDKGZroP2T/view)
+
+
 [![View PowerPoint](https://img.shields.io/badge/View%20PPT-PDF%20Link-blue?style=flat)](https://docs.google.com/presentation/d/1kj1wZs1FU9IqRsxBLa1yPux66HE32UYL/edit#slide=id.p1)
 
-[![Taiwan-ElectionWave-Analytics](https://img.shields.io/badge/Custom%20Image-Click%20to%20View-orange?style=flat)](Taiwan-ElectionWave-Analytics.png)
+
 
 <!-- wi*quL3fcV -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
