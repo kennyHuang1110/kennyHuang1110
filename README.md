@@ -5,9 +5,13 @@
 
 
 - 🎓 I recently graduated from National Chengchi University with a degree in Finance and Banking.
+
 - :test_tube: However, my interests have shifted towards the information technology industry.
+
 - 🪐 I'm enthusiastically pursuing the learning of new technologies.
+
 - :speech_balloon: I'm highly interested in ESG, development and operations, as well as cybersecurity.
+
 - :mailbox: Feel free to reach out to me through the provided link
 
 
