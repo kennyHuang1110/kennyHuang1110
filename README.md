@@ -10,6 +10,9 @@
 
 - 🪐 I'm enthusiastically pursuing the learning of new technologies.
 
+- 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
+
+
 - :speech_balloon: I'm highly interested in ESG,  DevOps and operations, as well as cybersecurity.
 
 - :mailbox: Feel free to reach out to me through the provided link
