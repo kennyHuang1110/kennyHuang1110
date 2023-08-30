@@ -63,10 +63,11 @@
 
 
 [![ PowerPoint](https://img.shields.io/badge/View%20PPT-PDF%20Link-blue?style=flat)](https://drive.google.com/file/d/14Tbqjhrxd7N7MVXEZLhKOANDKGZroP2T/view)
-![Alt Text](Taiwan-ElectionWave-Analytics.png)
 
+<img src="Taiwan-ElectionWave-Analytics.png" alt="Alt Text" width="400">
 [![View PowerPoint](https://img.shields.io/badge/View%20PPT-PDF%20Link-blue?style=flat)](https://docs.google.com/presentation/d/1kj1wZs1FU9IqRsxBLa1yPux66HE32UYL/edit#slide=id.p1)
-![Alt Text](robo.png)
+<img src="robo.png" alt="Alt Text" width="400">
+
 
 
 
