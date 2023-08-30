@@ -17,7 +17,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ko29469501@gmail.com)
 
-##### Very familiar and experienced in implementation projects
+#### Very familiar and experienced in implementation projects
 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -32,7 +32,7 @@
 
 
 
-##### Familiar and experienced in implementation
+#### Familiar and experienced in implementation
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat&logo=prometheus&logoColor=E6522C)
 ![Loki](https://img.shields.io/badge/-Loki-FF9A00?style=flat&logo=grafana&logoColor=white)
@@ -53,7 +53,7 @@
 
 
 
-##### Only read, no practical experience
+#### Only read, no practical experience
 ![FortiGate](https://img.shields.io/badge/-FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
 ![XSS](https://img.shields.io/badge/-XSS-F64A8A?style=flat&logo=security&logoColor=white)
 ![The Hive Project](https://img.shields.io/badge/-The%20Hive%20Project-8E44AD?style=flat)
