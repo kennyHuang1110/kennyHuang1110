@@ -61,7 +61,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-[![Custom Image](https://img.shields.io/badge/Custom%20Image-Click%20to%20View-orange?style=flat)](relative-path-to-your-image.png)
+[![Taiwan-ElectionWave-Analytics](https://img.shields.io/badge/Custom%20Image-Click%20to%20View-orange?style=flat)](Taiwan-ElectionWave-Analytics.png)
 
 <!-- wi*quL3fcV -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
