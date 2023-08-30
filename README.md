@@ -8,7 +8,7 @@ I'm kenny! I'm a **Android Developer**:iphone:, looking to solve **real-world pr
 
 <!-- Your badges -->
 
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ko29469501@gmail.com)
+[![Gmail](https://img.shields.io/badge/-kennyc14438?style=flat&logo=Gmail&logoColor=white)](mailto:ko29469501@gmail.com)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
