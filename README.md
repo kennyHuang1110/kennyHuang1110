@@ -39,7 +39,6 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-222222?style=flat&logo=grafana&logoColor=F46800)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-FF6522?style=flat&logo=hadoop&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=F05032)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9A00?style=flat&logo=hugging%20face&logoColor=white)
@@ -60,6 +59,8 @@
 ![The Hive Project](https://img.shields.io/badge/-The%20Hive%20Project-8E44AD?style=flat)
 ![Grafana-k6](https://img.shields.io/badge/-Grafana--k6-F46800?style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
 
 <!-- wi*quL3fcV -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
