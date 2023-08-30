@@ -2,11 +2,11 @@
 
 ##### Hi, I'm kenny:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
+🎓 I recently graduated from National Chengchi University with a degree in Finance and Banking.
+🧪 However, my interests have shifted towards the information technology industry.
+🪐 I'm enthusiastically pursuing the learning of new technologies.
+💬 I'm highly interested in ESG, development and operations, as well as cybersecurity.
+📫 Feel free to reach out to me through the provided links!
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ko29469501@gmail.com)
 
