@@ -69,9 +69,6 @@
 
 <!-- wi*quL3fcV -->
 ![kenny's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=maroongold)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyHuang1110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kennyHuang1110&repo=github-readme-stats-theme)](https://github.com/kennyHuang1110/github-readme-stats-theme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kennyHuang1110&repo=openai_language)](https://github.com/kennyHuang1110/openai_language)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyHuang1110&layout=compact)](https://github.com/kennyHuang1110)
 
 
