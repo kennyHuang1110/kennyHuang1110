@@ -67,7 +67,7 @@
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 #### implementation project presentation
-<img src="Taiwan-ElectionWave-Analytics.png" alt="Alt Text" width="150">[![ PowerPoint](https://img.shields.io/badge/政勢解碼Link-blue?style=flat)](https://docs.google.com/presentation/d/14Tbqjhrxd7N7MVXEZLhKOANDKGZroP2T/edit?usp=drive_link&ouid=110444565505699673093&rtpof=true&sd=true)          <img src="robo.png" alt="Alt Text" width="150">[![PowerPoint](https://img.shields.io/badge/open_AI%20Link-blue?style=flat)](https://drive.google.com/file/d/1rdq-baIWyKwdTcePqxhnxEn1UNR21s0A/view?usp=drive_link)
+<img src="Taiwan-ElectionWave-Analytics.png" alt="Alt Text" width="150">[![ PowerPoint](https://img.shields.io/badge/政勢解碼Link-blue?style=flat)](https://drive.google.com/file/d/1B0Z38U3odIs856bPCa43eznBJvDdBoeo/view?usp=drive_link)          <img src="robo.png" alt="Alt Text" width="150">[![PowerPoint](https://img.shields.io/badge/open_AI%20Link-blue?style=flat)](https://drive.google.com/file/d/1rdq-baIWyKwdTcePqxhnxEn1UNR21s0A/view?usp=drive_link)
 
 
 
