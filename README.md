@@ -15,6 +15,8 @@
 
 - :speech_balloon: I'm highly interested in ESG,  DevOps and operations, as well as cybersecurity.
 
+- :speech_balloon: I have previously used Hugging Face, Langchain, OpenAI, and Jieba in projects and have a strong interest in NLP.
+
 - :mailbox: Feel free to reach out to me through the provided link
 
 
