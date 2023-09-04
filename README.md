@@ -1,5 +1,5 @@
 ## Hi, I'm kenny    
-<img src="190305.jpg" alt="Alt align="right" Text" width="100">
+<img src="190305.jpg" alt="Alt Text"  align="right"  width="100">
 
 
 
