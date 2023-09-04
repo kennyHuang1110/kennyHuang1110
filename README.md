@@ -1,42 +1,27 @@
+## Hi, I'm kenny:
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .container {
-    background-image: url('191698.jpg');
-    background-size: cover;
-    background-position: right;
-    text-align: right;
-    padding: 20px;
-  }
-</style>
-</head>
-<body>
-  <div class="container">
-    <h1>Hi, I'm Kenny:</h1>
 
-    <p>🎓 I graduated from Chinese Culture University with a degree in Finance and Banking.</p>
+- 🎓 I  graduated from chinese culture University with a degree in Finance and Banking.
 
-    <p>:test_tube: However, my interests have shifted towards the information technology industry.</p>
+- :test_tube: However, my interests have shifted towards the information technology industry.
 
-    <p>🪐 I'm enthusiastically pursuing the learning of new technologies.</p>
+- 🪐 I'm enthusiastically pursuing the learning of new technologies.
 
-    <p>🏐🏊🏸 I am a volleyball player who is also passionate about fitness, swimming, and badminton.</p>
+- 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
+<div style="text-align: right;">
+    <img src="191698.jpg" alt="Alt Text" width="150">
+</div>
 
-    <p>:speech_balloon: I'm highly interested in ESG, DevOps and operations, as well as cybersecurity.</p>
+- :speech_balloon: I'm highly interested in ESG,  DevOps and operations, as well as cybersecurity.                         
 
-    <p>:speech_balloon: I have previously used Hugging Face, Langchain, OpenAI, and Jieba in projects and have a strong interest in NLP.</p>
 
-    <p>:mailbox: Feel free to reach out to me through the provided link</p>
+- :speech_balloon: I have previously used Hugging Face, Langchain, OpenAI, and Jieba in projects and have a strong interest in NLP.
 
-    <a href="mailto:ko29469501@gmail.com">
-      <img src="191698.jpg" alt="Alt Text" width="150">
-    </a>
-  </div>
-</body>
-</html>
+- :mailbox: Feel free to reach out to me through the provided link
+
+
+[![Gmail](https://img.shields.io/badge/-ko29469501@gmail.com-black?style=flat&logo=security&logoColor=white)](mailto:ko29469501@gmail.com)
 
 
 
