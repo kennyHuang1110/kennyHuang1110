@@ -9,9 +9,9 @@
 - 🪐 I'm enthusiastically pursuing the learning of new technologies.
 
 - 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
-<div style="text-align: right;">
-    <img src="191698.jpg" alt="Alt Text" width="150">
-</div>
+[![Profile Picture](191698.jpg)] <!-- 靠右對齊 -->
+
+
 
 - :speech_balloon: I'm highly interested in ESG,  DevOps and operations, as well as cybersecurity.                         
 
