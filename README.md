@@ -2,12 +2,12 @@
 
 
 
-- 🎓 I  graduated from chinese culture University with a degree in Finance and Banking.
+- 🎓 I  graduated from chinese culture University with a degree in Finance and Banking.  <img src="191698.jpg" alt="Alt Text" align="right" width="300">
 
 - :test_tube: However, my interests have shifted towards the information technology industry.
 
 - 🪐 I'm enthusiastically pursuing the learning of new technologies.
-  <img src="191698.jpg" alt="Alt Text" align="right" width="300">
+
 
 - 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
 
