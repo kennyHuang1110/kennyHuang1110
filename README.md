@@ -9,7 +9,7 @@
 - 🪐 I'm enthusiastically pursuing the learning of new technologies.
 
 - 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
-  <div style="text-align:center"><img src="191698.jpg" alt="Alt Text" width="150"></div>
+  <div style="text-align:center"><img src="191698.jpg" alt="Alt Text" width="450"></div>
 
 
 
