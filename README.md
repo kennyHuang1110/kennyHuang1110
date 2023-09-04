@@ -13,7 +13,7 @@
 - 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
 
 
-- :speech_balloon: I'm highly interested in ESG,  DevOps and operations, as well as cybersecurity.
+- :speech_balloon: I'm highly interested in ESG,  DevOps and operations, as well as cybersecurity.                          <img src="191698.jpg" alt="Alt Text" width="150">
 
 - :speech_balloon: I have previously used Hugging Face, Langchain, OpenAI, and Jieba in projects and have a strong interest in NLP.
 
