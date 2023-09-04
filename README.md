@@ -9,7 +9,7 @@
 - 🪐 I'm enthusiastically pursuing the learning of new technologies.
 
 - 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
-[![Profile Picture](191698.jpg)] <!-- 靠右對齊 -->
+   <img src="191698.jpg" alt="Alt Text" width="500">
 
 
 
