@@ -27,7 +27,7 @@
 
 
 
-#### Very familiar and experienced in implementation tools
+####  familiar and experienced  tools
 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
