@@ -54,8 +54,7 @@
 ![Grafana-k6](https://img.shields.io/badge/-Grafana--k6-F46800?style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 #### my jobs
-vulnerability scanning and web penetration 
-white hat 
+Computer testing goer
 
 
 
