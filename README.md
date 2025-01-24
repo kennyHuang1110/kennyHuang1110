@@ -51,7 +51,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![The Hive Project](https://img.shields.io/badge/-The%20Hive%20Project-8E44AD?style=flat)
-![Grafana-k6](https://img.shields.io/badge/-Grafana--k6-F46800?style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 #### my jobs
 Computer testing goer
