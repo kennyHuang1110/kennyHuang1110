@@ -2,28 +2,8 @@
 
 
 
-- 🎓 I  graduated from chinese culture University with a degree in Finance and Banking.  <img src="191698.jpg" alt="Alt Text" align="right" width="300">
 
-- :test_tube: However, my interests have shifted towards the information technology industry.
-
-- 🪐 I'm enthusiastically pursuing the learning of new technologies.
-
-
-- 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and badminton.
-
-
-
-
-
-- :speech_balloon: I'm highly interested in DevOps  as well as cybersecurity.                         
-
-
-- :speech_balloon: I have previously used Hugging Face, Langchain, OpenAI, and Jieba in projects and have a strong interest in NLP.
-
-- :mailbox: Feel free to reach out to me through the provided link
-
-
-[![Gmail](https://img.shields.io/badge/-ko29469501@gmail.com-black?style=flat&logo=security&logoColor=white)](mailto:ko29469501@gmail.com)
+- 🏐🏊🏸  I am a volleyball player who is also passionate about fitness, swimming, and boulder
 
 
 
