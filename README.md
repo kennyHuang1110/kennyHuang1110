@@ -38,13 +38,12 @@ Computer testing goer
 
 
 #### implementation project presentation
-<img src="Taiwan-ElectionWave-Analytics.png" alt="Alt Text" width="150">[![ PowerPoint](https://img.shields.io/badge/政勢解碼Link-blue?style=flat)](https://drive.google.com/file/d/1B0Z38U3odIs856bPCa43eznBJvDdBoeo/view?usp=drive_link)          <img src="robo.png" alt="Alt Text" width="150">[![PowerPoint](https://img.shields.io/badge/open_AI%20Link-blue?style=flat)](https://drive.google.com/file/d/1rdq-baIWyKwdTcePqxhnxEn1UNR21s0A/view?usp=drive_link)
+<img src="Taiwan-ElectionWave-Analytics.png" alt="Alt Text" width="150">      <img src="robo.png" alt="Alt Text" width="150">
 
 
 
 
-<!-- wi*quL3fcV -->
-![kenny's github stats](https://github-readme-stats.vercel.app/api?username=kennyHuang1110&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=maroongold)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyHuang1110&layout=compact)](https://github.com/kennyHuang1110)
+
+
 
 
